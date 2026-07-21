@@ -13,3 +13,7 @@ def umnog(a, b):
 def delenie(a, b):
     c = a // b
     print(c)
+
+def summ2(a, b, c):
+    d = a + b + c
+    print(d)
