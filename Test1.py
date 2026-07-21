@@ -17,3 +17,7 @@ def delenie(a, b):
 def summ2(a, b, c):
     d = a + b + c
     print(d)
+
+def umnog2(a, b, c):
+    d = a * b * c
+    print(d)
